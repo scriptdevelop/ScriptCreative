@@ -5,4 +5,4 @@
             .spyscroll({
                 activeClass: 
                 your-active-class
-                })
+              })
