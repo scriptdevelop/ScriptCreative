@@ -20,6 +20,7 @@
         this.targets        = []
         this.activeTarget   = null
 
+
         this.init()
         this.selector.on('scroll', jQuery.proxy(this.activate(), this))
     }
