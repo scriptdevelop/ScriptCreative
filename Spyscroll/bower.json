@@ -1,0 +1,27 @@
+{
+  "name": "Spyscroll",
+  "version": "2.2.0",
+  "authors": [
+    "Christian Chiama <christianchiama@yahoo.it>"
+  ],
+  "description": "A Spyscroll for every web site",
+  "main": "dist/jquery.spyscroll.js",
+  "keywords": [
+    "jquery"
+  ],
+  "license": "MIT",
+  "homepage": "www.scriptcreative.com",
+  "dependencies": {
+    "jquery": "~2.1.4"
+  },
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
