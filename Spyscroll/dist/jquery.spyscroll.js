@@ -1,17 +1,4 @@
-Skip to content
-This repository  
-Pull requests
-Issues
-Gist
- @scriptdevelop
- Unwatch 1
-  Star 0
-  Fork 0
-scriptdevelop/ScriptCreative
- branch: jquery  ScriptCreative/Spyscroll/src/jquery.spyscroll.js
-@scriptdevelopscriptdevelop 9 minutes ago jquery.spyscroll.js
-1 contributor
-RawBlameHistory     115 lines (85 sloc)  3.591 kB
+
 /* ========================================================================
  * ScriptCreative: jquery.spyscroll.js v2.2.0
  * http://plugins.scriptcreative.com/plugins
@@ -126,5 +113,3 @@ RawBlameHistory     115 lines (85 sloc)  3.591 kB
     jQuery.fn.spyscroll.noConflict = jQuery.noConflict
 
 }(jQuery);
-Status API Training Shop Blog About Help
-© 2015 GitHub, Inc. Terms Privacy Security Contact
